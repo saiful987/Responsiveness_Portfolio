@@ -1,0 +1,44 @@
+.navsai {
+    font-size: 30px;
+    color: white;
+
+}
+
+h1 {
+  margin-top: 20px;
+
+}
+
+img {
+   float: left;
+   margin-right: 15px;
+   margin-bottom: 15px;
+
+
+}
+
+.fa {
+   font-size: 40px;
+   color: red;
+
+}
+
+body {
+     background-color: #cccccc;
+     background-image: url(paper.gif);
+     position: relative;
+     padding-bottom: 58px;
+     min-height: 100vh;
+
+}
+
+footer {
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
